@@ -3,7 +3,7 @@ public class Inky{
 	System.out.println(pinky);
 	}
 
-	public Inky(String pinky,String blinky,String rinky){
+	public Inky(String ponky,String blinky,String rinky){
 	System.out.println(blinky + "  " + pinky);
 	System.out.println(pinky + "  " + rinky);
 	System.out.println(blinky + "  " + pinky + "  " + rinky);
